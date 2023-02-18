@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working in Fitpeo Inc as **Web Application Developer**
 
-- 👨‍💻 All of my projects are available at [https://aadilportfolio.netlify.app/](https://aadilportfolio.netlify.app/)
+- 👨‍💻 All of my deployed projects are available at [https://aadilportfolio.netlify.app/](https://aadilportfolio.netlify.app/)
 
 - 📫 How to reach me **md.aadil.shafi@gmail.com**
 
