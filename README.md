@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-aadil-shafi&label=Profile%20views&color=0e75b6&style=flat" alt="md-aadil-shafi" /> </p>
 
-- 🔭 I’m currently working in Fitpeo Inc as **Web Application Developer**
+- 🔭 currently working at Data Weaver as **Senior Web Application Developer**
 
-- 👨‍💻 All of my deployed projects are available at *
+- 👨‍💻 All of my deployed projects are available at **
 
 - 📫 How to reach me **md.aadil.shafi@gmail.com**
 
