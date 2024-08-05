@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohd Aadil Shafi</h1>
-<h3 align="center">Full Stack Developer, basically MERN Stack, who loves developing full stack web applications.</h3>
+<h3 align="center">Full Stack Developer, developing production applications since 2020.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-aadil-shafi&label=Profile%20views&color=0e75b6&style=flat" alt="md-aadil-shafi" /> </p>
 
