@@ -5,7 +5,7 @@
 
 - 🔭 Currently working at Destm Technologies as **Senior Software Engineer**
 
-- 👨‍💻 All of my deployed projects are available at **portfolio.aadilify.in*
+- 👨‍💻 All of my deployed projects are available at **https://portfolio.aadilify.in*
 
 - 📫 How to reach me **md.aadil.shafi@gmail.com**
 
