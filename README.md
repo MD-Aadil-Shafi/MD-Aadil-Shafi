@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-aadil-shafi&label=Profile%20views&color=0e75b6&style=flat" alt="md-aadil-shafi" /> </p>
 
-- 🔭 Currently working at Destm Technologies as **Senior Software Engineer**
+- 🔭 Currently working at Uplers as **Full Stack Software Engineer**
 
 - 👨‍💻 All of my deployed projects are available at **https://portfolio.aadilify.in*
 
