@@ -45,5 +45,6 @@ Manual Links:
 </p>
 
 ---
+<p align="center">NOTE: Most of the code commits was on organization's private repository. </p>
 <p align="center"> <i>Let's build something amazing together 🚀</i> </p>
 
