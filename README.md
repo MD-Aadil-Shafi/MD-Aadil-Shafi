@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aadil
 
-### Software Engineer | Full-Stack Developer | 5+ YOE
+### Software Engineer | Full-Stack Developer | 5 YOE
 
 **Designation:** Full Stack Software Engineer at Uplers
 
